@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "389693889883",
+    "project_id": "samku-c4027",
+    "storage_bucket": "samku-c4027.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389693889883:android:3492b271f5002fee850e7e",
+        "android_client_info": {
+          "package_name": "com.example.samkuev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389693889883-v80hpin8jhafn6f18tjpkucpt8eun4ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFPkb1ZhJfox7Bqj37xyHf7GYRIltZu6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389693889883-v80hpin8jhafn6f18tjpkucpt8eun4ab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
